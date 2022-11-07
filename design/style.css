@@ -1,0 +1,19 @@
+body {
+  background-color: #f8e8a6;
+  text-align: center;
+}
+
+a {
+  color: green;
+  padding: 10px;
+}
+
+img {
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.email {
+  color: blue;
+  padding: 0px;
+}
